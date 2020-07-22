@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: ee81241f4bb076e49a48ee7f3badf990
+timeCreated: 1523390463
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - bullet: {instanceID: 0}
+  - shootPoint: {instanceID: 0}
+  - shootPoint2: {instanceID: 0}
+  - shootPoint3: {instanceID: 0}
+  - shoot2: {fileID: 8300000, guid: fa4882b6d9ca3b94996f38678fb3afd0, type: 3}
+  - useShield: {fileID: 8300000, guid: f22ea1784c27bba47a5f4c368a986261, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

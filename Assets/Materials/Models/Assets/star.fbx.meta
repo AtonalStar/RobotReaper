@@ -1,0 +1,230 @@
+fileFormatVersion: 2
+guid: 69097d03fd6f14a99b89901829ba9b40
+timeCreated: 1524166853
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: starfishFat10Flower
+    100004: starfishFat10Main
+    100006: starfishFat10MeshGroup
+    100008: starfishFat11Flower
+    100010: starfishFat11Main
+    100012: starfishFat11MeshGroup
+    100014: starfishFat1Flower
+    100016: starfishFat1Main
+    100018: starfishFat1MeshGroup
+    100020: starfishFat2Flower
+    100022: starfishFat2Main
+    100024: starfishFat2MeshGroup
+    100026: starfishFat3Flower
+    100028: starfishFat3Main
+    100030: starfishFat3MeshGroup
+    100032: starfishFat4Flower
+    100034: starfishFat4Main
+    100036: starfishFat4MeshGroup
+    100038: starfishFat5Flower
+    100040: starfishFat5Main
+    100042: starfishFat5MeshGroup
+    100044: starfishFat6Flower
+    100046: starfishFat6Main
+    100048: starfishFat6MeshGroup
+    100050: starfishFat7Flower
+    100052: starfishFat7Main
+    100054: starfishFat7MeshGroup
+    100056: starfishFat8Flower
+    100058: starfishFat8Main
+    100060: starfishFat8MeshGroup
+    400000: //RootNode
+    400002: starfishFat10Flower
+    400004: starfishFat10Main
+    400006: starfishFat10MeshGroup
+    400008: starfishFat11Flower
+    400010: starfishFat11Main
+    400012: starfishFat11MeshGroup
+    400014: starfishFat1Flower
+    400016: starfishFat1Main
+    400018: starfishFat1MeshGroup
+    400020: starfishFat2Flower
+    400022: starfishFat2Main
+    400024: starfishFat2MeshGroup
+    400026: starfishFat3Flower
+    400028: starfishFat3Main
+    400030: starfishFat3MeshGroup
+    400032: starfishFat4Flower
+    400034: starfishFat4Main
+    400036: starfishFat4MeshGroup
+    400038: starfishFat5Flower
+    400040: starfishFat5Main
+    400042: starfishFat5MeshGroup
+    400044: starfishFat6Flower
+    400046: starfishFat6Main
+    400048: starfishFat6MeshGroup
+    400050: starfishFat7Flower
+    400052: starfishFat7Main
+    400054: starfishFat7MeshGroup
+    400056: starfishFat8Flower
+    400058: starfishFat8Main
+    400060: starfishFat8MeshGroup
+    2100000: starfishFat8Shader
+    2100002: starfishFat8FlowerShader
+    2100004: starfishFat7Shader
+    2100006: starfishFat7FlowerShader
+    2100008: starfishFat6Shader
+    2100010: starfishFat6FlowerShader
+    2100012: starfishFat5Shader
+    2100014: starfishFat5FlowerShader
+    2100016: starfishFat4Shader
+    2100018: starfishFat4FlowerShader
+    2100020: starfishFat3Shader
+    2100022: starfishFat3FlowerShader
+    2100024: starfishFat2Shader
+    2100026: starfishFat2FlowerShader
+    2100028: starfishFat1Shader
+    2100030: starfishFat1FlowerShader
+    2100032: starfishFat11Shader
+    2100034: starfishFat11FlowerShader
+    2100036: starfishFat10Shader
+    2100038: starfishFat10FlowerShader
+    2300000: starfishFat10Flower
+    2300002: starfishFat10Main
+    2300004: starfishFat11Flower
+    2300006: starfishFat11Main
+    2300008: starfishFat1Flower
+    2300010: starfishFat1Main
+    2300012: starfishFat2Flower
+    2300014: starfishFat2Main
+    2300016: starfishFat3Flower
+    2300018: starfishFat3Main
+    2300020: starfishFat4Flower
+    2300022: starfishFat4Main
+    2300024: starfishFat5Flower
+    2300026: starfishFat5Main
+    2300028: starfishFat6Flower
+    2300030: starfishFat6Main
+    2300032: starfishFat7Flower
+    2300034: starfishFat7Main
+    2300036: starfishFat8Flower
+    2300038: starfishFat8Main
+    3300000: starfishFat10Flower
+    3300002: starfishFat10Main
+    3300004: starfishFat11Flower
+    3300006: starfishFat11Main
+    3300008: starfishFat1Flower
+    3300010: starfishFat1Main
+    3300012: starfishFat2Flower
+    3300014: starfishFat2Main
+    3300016: starfishFat3Flower
+    3300018: starfishFat3Main
+    3300020: starfishFat4Flower
+    3300022: starfishFat4Main
+    3300024: starfishFat5Flower
+    3300026: starfishFat5Main
+    3300028: starfishFat6Flower
+    3300030: starfishFat6Main
+    3300032: starfishFat7Flower
+    3300034: starfishFat7Main
+    3300036: starfishFat8Flower
+    3300038: starfishFat8Main
+    4300000: starfishFat8Main
+    4300002: starfishFat8Flower
+    4300004: starfishFat7Main
+    4300006: starfishFat7Flower
+    4300008: starfishFat6Main
+    4300010: starfishFat6Flower
+    4300012: starfishFat5Main
+    4300014: starfishFat5Flower
+    4300016: starfishFat4Main
+    4300018: starfishFat4Flower
+    4300020: starfishFat3Main
+    4300022: starfishFat3Flower
+    4300024: starfishFat2Main
+    4300026: starfishFat2Flower
+    4300028: starfishFat1Main
+    4300030: starfishFat1Flower
+    4300032: starfishFat11Main
+    4300034: starfishFat11Flower
+    4300036: starfishFat10Main
+    4300038: starfishFat10Flower
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
